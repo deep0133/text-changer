@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/text-count/static/css/main.e6c13ad2.css",
+    "main.js": "/text-count/static/js/main.896c8cd0.js",
+    "index.html": "/text-count/index.html",
+    "main.e6c13ad2.css.map": "/text-count/static/css/main.e6c13ad2.css.map",
+    "main.896c8cd0.js.map": "/text-count/static/js/main.896c8cd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.896c8cd0.js"
+  ]
+}
